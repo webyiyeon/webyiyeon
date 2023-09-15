@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![Webyiyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=webyiyeon)](https://github.com/webyiyeon/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webyiyeon)](https://github.com/webyiyeon/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webyiyeon)](https://github.com/webyiyeon/github-readme-stats) -->
 
 
