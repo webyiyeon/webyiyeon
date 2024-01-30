@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 🏢 Working on 
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
 ⌨️ Used to
 
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 💻 Now Studying  
 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
 
 🏫 Learned from Academy program 
 
